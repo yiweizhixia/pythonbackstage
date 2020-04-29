@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14cffc4e-730d-49e7-89f5-c128b2cfee42" name="Default Changelist" comment="" />
+    <list default="true" id="14cffc4e-730d-49e7-89f5-c128b2cfee42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloDjango/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloDjango/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloDjango/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,17 +38,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZsECkIBAtejd9hzOBOErAsFUWE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -90,6 +106,7 @@
       <workItem from="1586914599534" duration="61000" />
       <workItem from="1587453971927" duration="643000" />
       <workItem from="1587454899367" duration="2417000" />
+      <workItem from="1588123177190" duration="6346000" />
     </task>
     <servers />
   </component>
@@ -97,18 +114,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="423" y="101" key="#Deployment" timestamp="1587454488910">
+    <state x="423" y="101" key="#Deployment" timestamp="1588123230957">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="423" y="101" key="#Deployment/0.0.1600.860@0.0.1600.860" timestamp="1587454488910" />
-    <state x="398" y="87" key="#Options" timestamp="1587454504443">
+    <state x="423" y="101" key="#Deployment/0.0.1600.860@0.0.1600.860" timestamp="1588123230957" />
+    <state x="398" y="87" key="#Options" timestamp="1588123237590">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="398" y="87" key="#Options/0.0.1600.860@0.0.1600.860" timestamp="1587454504443" />
-    <state x="303" y="74" key="SettingsEditor" timestamp="1587454459033">
+    <state x="398" y="87" key="#Options/0.0.1600.860@0.0.1600.860" timestamp="1588123237590" />
+    <state x="511" y="25" key="CommitChangelistDialog2" timestamp="1588130011608">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="303" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1587454459033" />
+    <state x="511" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1588130011608" />
+    <state x="39" y="3" width="994" height="708" key="SettingsEditor" timestamp="1588125772553">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="39" y="3" width="994" height="708" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1588125772553" />
     <state x="656" y="336" key="WebDeployment.AddServerDialog.v.1" timestamp="1587454158559">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

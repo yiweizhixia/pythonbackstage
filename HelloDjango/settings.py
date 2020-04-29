@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'First.apps.FirstConfig',
 ]
 
 MIDDLEWARE = [
@@ -77,10 +78,10 @@ WSGI_APPLICATION = 'HelloDjango.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'test',
+        'NAME': 'first',
         'USER': 'root',
         'PASSWORD': '123456',
-        'HOST':'localhost',
+        'HOST':'120.26.131.95',
         'PORT':'3306',
     }
 }
@@ -127,3 +128,8 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
      os.path.join(BASE_DIR, 'static').replace('\\', '/'),
 )
+
+TEMPLATE_PATH = os.path.join(BASE_DIR,'templates')
+TEMPLATE_DIRS=[
+    TEMPLATE_PATH,
+]

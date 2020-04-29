@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<img src="{% static 'img/1.jpg' %}"/>
+<ul>
+    {%for item in list%}
+        <li>
+            {{ item.id }}
+            {{ item.name }}
+        </li>
+    {% endfor %}
+</ul>
+</body>
+</html>
