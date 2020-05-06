@@ -16,10 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import url
-from First.views import showInfo
+from First.views import showInfo,add_stu,testdb
 
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^index/',showInfo),
+    url(r'^add/',add_stu),
+    url(r'^test/',testdb),
 ]

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14cffc4e-730d-49e7-89f5-c128b2cfee42" name="Default Changelist" comment="">
+    <list default="true" id="14cffc4e-730d-49e7-89f5-c128b2cfee42" name="Default Changelist" comment="First APP">
+      <change afterPath="$PROJECT_DIR$/interface_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/First/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/First/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloDjango/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloDjango/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloDjango/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -62,7 +68,51 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.views">
+    <configuration name="interface_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="HelloDjango" type="Python.DjangoServer" factoryName="Django server">
       <module name="HelloDjango" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +136,12 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.interface_test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -101,7 +157,9 @@
       <workItem from="1586914599534" duration="61000" />
       <workItem from="1587453971927" duration="643000" />
       <workItem from="1587454899367" duration="2417000" />
-      <workItem from="1588123177190" duration="6592000" />
+      <workItem from="1588123177190" duration="7016000" />
+      <workItem from="1588138270321" duration="6954000" />
+      <workItem from="1588731074195" duration="2579000" />
     </task>
     <task id="LOCAL-00001" summary="自定义数据在admin中显示，并显示图片和列表">
       <created>1588130051363</created>
@@ -110,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588130051363</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="自定义数据在admin中显示，并显示图片和列表">
+      <created>1588130256388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588130256388</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First APP">
+      <created>1588130383307</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588130383307</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +190,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="自定义数据在admin中显示，并显示图片和列表" />
-    <option name="LAST_COMMIT_MESSAGE" value="自定义数据在admin中显示，并显示图片和列表" />
+    <MESSAGE value="First APP" />
+    <option name="LAST_COMMIT_MESSAGE" value="First APP" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="101" key="#Deployment" timestamp="1588123230957">
@@ -129,18 +202,50 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="398" y="87" key="#Options/0.0.1600.860@0.0.1600.860" timestamp="1588123237590" />
-    <state x="511" y="25" key="CommitChangelistDialog2" timestamp="1588130255000">
+    <state x="511" y="25" key="CommitChangelistDialog2" timestamp="1588130575247">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="511" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1588130255000" />
+    <state x="511" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1588130575247" />
+    <state width="1348" height="269" key="GridCell.Tab.0.bottom" timestamp="1588149387651">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1588149387651" />
+    <state width="1348" height="269" key="GridCell.Tab.0.center" timestamp="1588149387650">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1588149387650" />
+    <state width="1348" height="269" key="GridCell.Tab.0.left" timestamp="1588149387650">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1588149387650" />
+    <state width="1348" height="269" key="GridCell.Tab.0.right" timestamp="1588149387650">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1588149387650" />
+    <state width="1348" height="269" key="GridCell.Tab.1.bottom" timestamp="1588149387651">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1588149387651" />
+    <state width="1348" height="269" key="GridCell.Tab.1.center" timestamp="1588149387651">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1588149387651" />
+    <state width="1348" height="269" key="GridCell.Tab.1.left" timestamp="1588149387651">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1588149387651" />
+    <state width="1348" height="269" key="GridCell.Tab.1.right" timestamp="1588149387651">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1348" height="269" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1588149387651" />
     <state x="39" y="3" width="994" height="708" key="SettingsEditor" timestamp="1588125772553">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="39" y="3" width="994" height="708" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1588125772553" />
-    <state x="491" y="151" key="Vcs.Push.Dialog.v2" timestamp="1588130266649">
+    <state x="491" y="151" key="Vcs.Push.Dialog.v2" timestamp="1588130395354">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="491" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1588130266649" />
+    <state x="491" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1588130395354" />
     <state x="656" y="336" key="WebDeployment.AddServerDialog.v.1" timestamp="1587454158559">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -149,5 +254,20 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="695" y="165" key="ftp.server.browser/0.0.1600.860@0.0.1600.860" timestamp="1587454427416" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/First/views.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloDjango$interface_test.coverage" NAME="interface_test Coverage Results" MODIFIED="1588139280426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HelloDjango$views.coverage" NAME="views Coverage Results" MODIFIED="1588146564766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First" />
   </component>
 </project>
